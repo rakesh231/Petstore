@@ -1,0 +1,6 @@
+api:
+    host:
+        baseurl: http://petstore-demo-endpoint.execute-api.com/petstore
+logging:
+    level:
+        root: INFO
